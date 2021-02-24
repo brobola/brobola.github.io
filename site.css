@@ -1,0 +1,91 @@
+img {
+    max-width:  220px;
+    max-height: 220px;
+    position: relative; left: 15px;
+    position: relative; top: -205px;
+    
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border: 5px solid black;
+    
+    }
+
+body header h1 {
+    position: relative; left: 555px;
+    position: relative; top: 10px;
+    font-family: monospace;
+}
+
+body header h2 {
+    position: relative; left: 375px;
+    position: relative; top: 20px;
+    font-family: monospace;
+
+}
+
+body header p {
+    font-size: 30px;
+    font-family: Arial;
+    position: relative; left: 300px;
+    position: relative; top: 40px;
+}
+
+body p {
+    position: relative; left:275px;
+    position: relative; top:-230px;
+}
+
+body h3 {
+    position:relative; left: 1210px;
+    position:relative; top: -430px;
+    text-decoration-style: none;
+}
+
+* {box-sizing: border-box;}
+
+.container {
+  width: 60%;
+  background-color: #ddd; 
+  position: relative; left: 275px;
+  position: relative; top: -230px;
+}
+
+.skills {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  color: white; 
+}
+
+.cpp {width: 75%; background-color:indigo;}
+.py {width: 60%; background-color:red;} 
+.html {width: 35%; background-color: blue;}
+.css {width: 35%; background-color: yellow;}
+
+
+body h4 {
+    font-family: monospace;
+    font-size: 40px;
+    position: relative; left: 280px;
+    position: relative; top: -130px;
+}
+
+body h4 div {
+    font-size: 20px;
+    position:relative; left: -80px;
+}
+
+body h5 {
+    font-family: monospace;
+    font-size: 40px;
+    position: relative; left: 280px;
+    position: relative; top: -130px;
+}
+
+body h5 div {
+    text-align: center;
+    border: 1px solid black;
+    position:relative; left: -80px;
+    position:relative; top: 20px;
+    font-size: 20px;
+}
